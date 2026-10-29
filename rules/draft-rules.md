@@ -27,3 +27,8 @@
 
 Add one rule of your own here, and say what it does. A sentence or two is
 plenty.
+
+## Script-generated rules
+
+- A unit that survives combat gains 1 health.
+- A player with no units at the start of a round loses 2 health.
