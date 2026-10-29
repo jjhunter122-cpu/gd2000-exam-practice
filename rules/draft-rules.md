@@ -25,8 +25,7 @@
 
 ## My rule
 
-Add one rule of your own here, and say what it does. A sentence or two is
-plenty.
+RULE Bonus Draw. Once per game, a player may draw three additional cards after playing one card. 
 
 ## Script-generated rules
 
